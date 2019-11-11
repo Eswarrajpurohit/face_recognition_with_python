@@ -16,3 +16,5 @@ Tasks:
         
         
 It can be basically used to check the student  attendance or just to recognize persons etc...
+
+The images and the encodings are not been provide here as per privacy concerns of other in the photo.
